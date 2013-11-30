@@ -1,0 +1,10 @@
+{% if index %}
+  <header>
+	  <div class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></div>
+  </header>
+{% endif %}
+
+{% if index %}
+{% else %}
+<div class="entry-content">{{ content }}</div>
+{% endif %}

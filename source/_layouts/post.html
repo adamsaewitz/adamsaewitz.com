@@ -1,0 +1,38 @@
+---
+layout: default
+single: true
+---
+<aside class="left-sidebar">
+  <section>
+    <ul id="recent_posts">
+      {% for post2 in site.posts %}
+        <li class="post">
+          {% if post2.id == page.id %}
+            <a class=italic href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a>
+          {% else %}
+              <a href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</aside>
+
+<div class="post-content">
+<article class="hentry" role="article">
+  {% include article.html %}
+  <footer>
+    {% unless page.sharing == false %}
+      {% include post/sharing.html %}
+    {% endunless %}
+  </footer>
+</article>
+{% if site.disqus_short_name and page.comments == true %}
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+  </section>
+{% endif %}
+</div>
+
+<div class=clear></div>
