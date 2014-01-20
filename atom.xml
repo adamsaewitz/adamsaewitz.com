@@ -4,7 +4,7 @@
   <title><![CDATA[My Portfolio]]></title>
   <link href="http://adamsaewitz.github.io/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-20T16:17:43-05:00</updated>
+  <updated>2014-01-20T16:44:21-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Queens]]></title>
+    <link href="http://adamsaewitz.github.io/queens/"/>
+    <updated>2014-01-20T16:42:06-05:00</updated>
+    <id>http://adamsaewitz.github.io/queens</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qGWFBt_IPOg "></iframe></div>
+
+
+<p>
+directed by dream hampton, shot and edited by adam saewitz</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[People]]></title>
+    <link href="http://adamsaewitz.github.io/people/"/>
+    <updated>2014-01-20T16:27:51-05:00</updated>
+    <id>http://adamsaewitz.github.io/people</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/people_1.jpg" alt="people" />
+<img src="http://adamsaewitz.github.io/images/people_2.jpg" alt="people" />
+<img src="http://adamsaewitz.github.io/images/people_3.jpg" alt="people" />
+<img src="http://adamsaewitz.github.io/images/people_4.jpg" alt="people" />
+<img src="http://adamsaewitz.github.io/images/people_5.jpg" alt="people" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Geoffrey]]></title>
+    <link href="http://adamsaewitz.github.io/geoffrey/"/>
+    <updated>2014-01-20T16:26:34-05:00</updated>
+    <id>http://adamsaewitz.github.io/geoffrey</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/giraffe.jpg" alt="geoffrey" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cutting Ice to Snow]]></title>
+    <link href="http://adamsaewitz.github.io/cutting-ice-to-snow/"/>
+    <updated>2014-01-20T16:21:30-05:00</updated>
+    <id>http://adamsaewitz.github.io/cutting-ice-to-snow</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/SxiCmWRxcPs "></iframe></div>
+
+
+<p>directed by jeremiah zagar, edited by adam saewitz</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kelev]]></title>
@@ -184,75 +231,6 @@
     <updated>2014-01-20T00:48:53-05:00</updated>
     <id>http://adamsaewitz.github.io/nas</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tnght]]></title>
-    <link href="http://adamsaewitz.github.io/tnght/"/>
-    <updated>2014-01-20T00:48:27-05:00</updated>
-    <id>http://adamsaewitz.github.io/tnght</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/krLk1E1zsc8 "></iframe></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Renisha Mcbride]]></title>
-    <link href="http://adamsaewitz.github.io/renisha-mcbride/"/>
-    <updated>2014-01-20T00:48:04-05:00</updated>
-    <id>http://adamsaewitz.github.io/renisha-mcbride</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/NJc1nvyPYqs "></iframe></div>
-
-
-<p>this is a paragraph</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Macba]]></title>
-    <link href="http://adamsaewitz.github.io/macba/"/>
-    <updated>2013-11-29T21:04:54-05:00</updated>
-    <id>http://adamsaewitz.github.io/macba</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/1.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/2.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/4.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/9.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/10.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/11.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/12.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/13.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/14.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/15.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/16.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/17.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/18.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/19.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/21.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/23.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/24.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/25.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/26.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/27.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/28.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/29.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/30.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/31.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/32.jpg" alt="dgk" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Addis]]></title>
-    <link href="http://adamsaewitz.github.io/addis/"/>
-    <updated>2013-11-29T20:07:07-05:00</updated>
-    <id>http://adamsaewitz.github.io/addis</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/48030811 "></iframe></div>
-
-
-<p><img src="http://adamsaewitz.github.io/images/1_addis.jpg" alt="addis" />
-<img src="http://adamsaewitz.github.io/images/2_addis.jpg" alt="addis" />
-<img src="http://adamsaewitz.github.io/images/4_addis.jpg" alt="addis" /></p>
 ]]></content>
   </entry>
   
