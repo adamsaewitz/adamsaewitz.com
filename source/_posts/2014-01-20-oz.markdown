@@ -1,0 +1,8 @@
+---
+layout: post
+title: "oz"
+date: 2014-01-20 01:52:39 -0500
+comments: true
+categories: 
+---
+![oz](/images/oz.jpg)

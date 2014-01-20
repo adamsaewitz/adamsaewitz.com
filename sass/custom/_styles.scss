@@ -3,6 +3,8 @@
 
 html, body {
 	background: #FFF;
+	width: 1400px;
+	margin: auto;
 }
 
 body > header {
@@ -14,29 +16,22 @@ body > nav {
 	text-shadow: none;
 	border-bottom: 3px solid #000;
 	color: #000;
+	margin: 0;
+	padding: 50px 0 0 0;
 
 	ul li {
 		border: none;
+		margin: 0 0 0 20px;
+		padding: 0;
+
 		a, a:visited, a:hover {
 			color: #000;
 			border: none;
+			padding: 0;
+			margin: 0;
 		}
 
-		a.adam {
-			padding-top: .6em;
-		}
 
-		a.url {
-			font-size: 1.5em;
-			text-transform: uppercase;
-		}
-	}
-}
-
-.main-navigation {
-	li {
-		font-size: 2em;
-		font-family: Helvetica;
 	}
 }
 
@@ -46,11 +41,33 @@ body > nav {
 }
 
 #content > .post-content {
-	width: 500px;
+	width: 998px;
 	float: left;
 
 	header {
 		background: none;
+	}
+
+	img {
+		border: none;
+		border-radius: 0;
+		min-width: 1000px;
+		box-shadow: none;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+	}
+
+	.flash-video, .embed-video-container {
+		border: none;
+		border-radius: 0;
+		box-shadow: none;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+
+		iframe {
+			width: 800px;
+			height: 450px;
+		}
 	}
 }
 
@@ -70,13 +87,25 @@ body > nav {
 #content {
 	margin-right: 0;
 	background: none;
+	margin-top: 25px;
 
 	.blog-index {
+		min-height: 300px;
 
 		.rolodex {
 			width: 200px;
 			padding-bottom: 50px;
 			margin-left: 1.3em;
+			float: left;
+		}
+
+		.embed-video-container {
+			text-align: center;
+
+			iframe {
+				height: 320px;
+				width: 480px;
+			}
 		}
 
 		article {
@@ -89,11 +118,20 @@ body > nav {
 			}
 
 			.entry-title {
+				height: 20px;
+				a {
 				font-family: 'Courier New', Courier, monospace;
 				text-transform: uppercase;
 				font-size: 12px;
 				text-decoration: none;
 				border-bottom: 1px dotted #000;
+				color: #777777;
+			}
+			a:hover {
+					font-style: italic;
+					font-weight: bold;
+					color: #000;
+				}
 			}
 		}
 	}
@@ -102,15 +140,32 @@ body > nav {
 #recent_posts {
 	.post {
 				list-style-type: none;
+				height: 20px;
+		a {
 				font-family: 'Courier New', Courier, monospace;
-				text-transform: uppercase;
+				text-transform: lowercase;
 				font-size: 12px;
 				text-decoration: none;
 				border-bottom: 1px dotted #000;
+				color: #777777;
+			}
+		a:hover {
+			font-style: italic;
+			font-weight: bold;
+			color: #000;
+		}
 			}
 }
 
 body > footer {
 	background: none;
 	text-shadow: none;
+}
+
+.toggle-sidebar {
+	display: none;
+}
+
+.clear {
+	clear: both;
 }

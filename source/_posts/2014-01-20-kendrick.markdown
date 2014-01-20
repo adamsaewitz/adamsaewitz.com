@@ -1,0 +1,9 @@
+---
+layout: post
+title: "kendrick"
+date: 2014-01-20 00:49:33 -0500
+comments: true
+categories: 
+---
+![xx](/images/kendrick.jpg)
+![xx](/images/kendrick2.jpg)
