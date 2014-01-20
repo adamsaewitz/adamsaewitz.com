@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://adamsaewitz.github.io/sitemap.xml 
+Sitemap: http://adamsaewitz.github.io/adamsaewitz/sitemap.xml 

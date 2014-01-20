@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Portfolio]]></title>
-  <link href="http://adamsaewitz.github.io/atom.xml" rel="self"/>
-  <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-20T15:48:41-05:00</updated>
-  <id>http://adamsaewitz.github.io/</id>
+  <link href="http://adamsaewitz.github.io/adamsaewitz/atom.xml" rel="self"/>
+  <link href="http://adamsaewitz.github.io/adamsaewitz/"/>
+  <updated>2014-01-20T15:53:11-05:00</updated>
+  <id>http://adamsaewitz.github.io/adamsaewitz/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jazzmatazz]]></title>
-    <link href="http://adamsaewitz.github.io/jazzmatazz/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/jazzmatazz/"/>
     <updated>2014-01-20T15:27:25-05:00</updated>
-    <id>http://adamsaewitz.github.io/jazzmatazz</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/jazzmatazz</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/17966078 "></iframe></div>
 
 ]]></content>
@@ -25,39 +25,39 @@
   
   <entry>
     <title type="html"><![CDATA[Xx]]></title>
-    <link href="http://adamsaewitz.github.io/personal/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/personal/"/>
     <updated>2014-01-20T15:20:38-05:00</updated>
-    <id>http://adamsaewitz.github.io/personal</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/rio5.jpg" alt="personal" />
-<img src="http://adamsaewitz.github.io/images/free.jpg" alt="personal" />
-<img src="http://adamsaewitz.github.io/images/ireland.jpg" alt="personal" />
-<img src="http://adamsaewitz.github.io/images/xx2.jpg" alt="personal" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/personal</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/rio5.jpg" alt="personal" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/free.jpg" alt="personal" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/ireland.jpg" alt="personal" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/xx2.jpg" alt="personal" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[99%]]></title>
-    <link href="http://adamsaewitz.github.io/99-percent/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/99-percent/"/>
     <updated>2014-01-20T01:55:42-05:00</updated>
-    <id>http://adamsaewitz.github.io/99-percent</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/99.jpg" alt="99%" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/99-percent</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/99.jpg" alt="99%" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Oz]]></title>
-    <link href="http://adamsaewitz.github.io/oz/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/oz/"/>
     <updated>2014-01-20T01:52:39-05:00</updated>
-    <id>http://adamsaewitz.github.io/oz</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/oz.jpg" alt="oz" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/oz</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/oz.jpg" alt="oz" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Moo]]></title>
-    <link href="http://adamsaewitz.github.io/crooklyn/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/crooklyn/"/>
     <updated>2014-01-20T01:50:54-05:00</updated>
-    <id>http://adamsaewitz.github.io/crooklyn</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/crooklyn</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/10196082 "></iframe></div>
 
 
@@ -68,18 +68,18 @@
   
   <entry>
     <title type="html"><![CDATA[Brother]]></title>
-    <link href="http://adamsaewitz.github.io/brother/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/brother/"/>
     <updated>2014-01-20T01:44:05-05:00</updated>
-    <id>http://adamsaewitz.github.io/brother</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/jon.png" alt="brother" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/brother</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/jon.png" alt="brother" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Mike Slott]]></title>
-    <link href="http://adamsaewitz.github.io/mike-slott/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/mike-slott/"/>
     <updated>2014-01-20T01:32:08-05:00</updated>
-    <id>http://adamsaewitz.github.io/mike-slott</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/mike-slott</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/20737056 "></iframe></div>
 
 ]]></content>
@@ -87,49 +87,49 @@
   
   <entry>
     <title type="html"><![CDATA[Kendrick]]></title>
-    <link href="http://adamsaewitz.github.io/kendrick/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/kendrick/"/>
     <updated>2014-01-20T00:49:33-05:00</updated>
-    <id>http://adamsaewitz.github.io/kendrick</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/kendrick.jpg" alt="xx" />
-<img src="http://adamsaewitz.github.io/images/kendrick2.jpg" alt="xx" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/kendrick</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/kendrick.jpg" alt="xx" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/kendrick2.jpg" alt="xx" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Rio]]></title>
-    <link href="http://adamsaewitz.github.io/rio/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/rio/"/>
     <updated>2014-01-20T00:49:08-05:00</updated>
-    <id>http://adamsaewitz.github.io/rio</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/rio.jpg" alt="rio" />
-<img src="http://adamsaewitz.github.io/images/rio3.jpg" alt="rio" />
-<img src="http://adamsaewitz.github.io/images/rio2.jpg" alt="rio" />
-<img src="http://adamsaewitz.github.io/images/rio4.jpg" alt="rio" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/rio</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/rio.jpg" alt="rio" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/rio3.jpg" alt="rio" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/rio2.jpg" alt="rio" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/rio4.jpg" alt="rio" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[The Lake]]></title>
-    <link href="http://adamsaewitz.github.io/the-lake/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/the-lake/"/>
     <updated>2014-01-20T00:49:00-05:00</updated>
-    <id>http://adamsaewitz.github.io/the-lake</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/the-lake</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Nas]]></title>
-    <link href="http://adamsaewitz.github.io/nas/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/nas/"/>
     <updated>2014-01-20T00:48:53-05:00</updated>
-    <id>http://adamsaewitz.github.io/nas</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/nas</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tnght]]></title>
-    <link href="http://adamsaewitz.github.io/tnght/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/tnght/"/>
     <updated>2014-01-20T00:48:27-05:00</updated>
-    <id>http://adamsaewitz.github.io/tnght</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/tnght</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/krLk1E1zsc8 "></iframe></div>
 
 ]]></content>
@@ -137,9 +137,9 @@
   
   <entry>
     <title type="html"><![CDATA[Renisha Mcbride]]></title>
-    <link href="http://adamsaewitz.github.io/renisha-mcbride/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/renisha-mcbride/"/>
     <updated>2014-01-20T00:48:04-05:00</updated>
-    <id>http://adamsaewitz.github.io/renisha-mcbride</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/renisha-mcbride</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/NJc1nvyPYqs "></iframe></div>
 
 
@@ -149,81 +149,81 @@
   
   <entry>
     <title type="html"><![CDATA[Macba]]></title>
-    <link href="http://adamsaewitz.github.io/macba/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/macba/"/>
     <updated>2013-11-29T21:04:54-05:00</updated>
-    <id>http://adamsaewitz.github.io/macba</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/1.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/2.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/4.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/9.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/10.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/11.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/12.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/13.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/14.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/15.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/16.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/17.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/18.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/19.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/21.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/23.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/24.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/25.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/26.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/27.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/28.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/29.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/30.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/31.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/32.jpg" alt="dgk" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/macba</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/1.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/2.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/4.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/9.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/10.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/11.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/12.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/13.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/14.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/15.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/16.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/17.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/18.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/19.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/21.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/23.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/24.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/25.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/26.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/27.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/28.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/29.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/30.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/31.jpg" alt="dgk" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/32.jpg" alt="dgk" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Addis]]></title>
-    <link href="http://adamsaewitz.github.io/addis/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/addis/"/>
     <updated>2013-11-29T20:07:07-05:00</updated>
-    <id>http://adamsaewitz.github.io/addis</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/addis</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/48030811 "></iframe></div>
 
 
-<p><img src="http://adamsaewitz.github.io/images/1_addis.jpg" alt="addis" />
-<img src="http://adamsaewitz.github.io/images/2_addis.jpg" alt="addis" />
-<img src="http://adamsaewitz.github.io/images/4_addis.jpg" alt="addis" /></p>
+<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/1_addis.jpg" alt="addis" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/2_addis.jpg" alt="addis" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/4_addis.jpg" alt="addis" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Erykah]]></title>
-    <link href="http://adamsaewitz.github.io/erykah/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/erykah/"/>
     <updated>2013-11-29T19:32:58-05:00</updated>
-    <id>http://adamsaewitz.github.io/erykah</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/erykah5.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah2.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah3.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah4.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah6.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah8.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah9.jpg" alt="erykah" />
-<img src="http://adamsaewitz.github.io/images/erykah10.jpg" alt="erykah" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/erykah</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah5.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah2.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah3.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah4.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah6.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah8.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah9.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/adamsaewitz/images/erykah10.jpg" alt="erykah" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Canon Logic]]></title>
-    <link href="http://adamsaewitz.github.io/canon+logic/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/canon+logic/"/>
     <updated>2013-11-29T19:32:09-05:00</updated>
-    <id>http://adamsaewitz.github.io/canon logic</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/1_canon.jpg" alt="canonlogic" /></p>
+    <id>http://adamsaewitz.github.io/adamsaewitz/canon logic</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/adamsaewitz/images/1_canon.jpg" alt="canonlogic" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Bio]]></title>
-    <link href="http://adamsaewitz.github.io/bio/"/>
+    <link href="http://adamsaewitz.github.io/adamsaewitz/bio/"/>
     <updated>2013-01-01T00:49:39-05:00</updated>
-    <id>http://adamsaewitz.github.io/bio</id>
+    <id>http://adamsaewitz.github.io/adamsaewitz/bio</id>
     <content type="html"><![CDATA[<p>This is adams bio</p>
 ]]></content>
   </entry>
