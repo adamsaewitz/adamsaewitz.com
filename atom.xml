@@ -4,7 +4,7 @@
   <title><![CDATA[My Portfolio]]></title>
   <link href="http://adamsaewitz.github.io/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-20T18:25:03-05:00</updated>
+  <updated>2014-01-20T18:28:59-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -12,18 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Cutting Ice to Snow]]></title>
-    <link href="http://adamsaewitz.github.io/cutting-ice-to-snow/"/>
-    <updated>2014-01-21T16:21:30-05:00</updated>
-    <id>http://adamsaewitz.github.io/cutting-ice-to-snow</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/SxiCmWRxcPs "></iframe></div>
-
-
-<p>directed by jeremiah zagar, edited by adam saewitz</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Queens]]></title>
@@ -226,6 +214,18 @@ directed by dream hampton, shot and edited by adam saewitz</p>
 
 
 <p><a href="http://brothersgreen.com">Brothers Green</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cutting Ice to Snow]]></title>
+    <link href="http://adamsaewitz.github.io/cutting-ice-to-snow/"/>
+    <updated>2014-01-17T16:21:30-05:00</updated>
+    <id>http://adamsaewitz.github.io/cutting-ice-to-snow</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/SxiCmWRxcPs "></iframe></div>
+
+
+<p>directed by jeremiah zagar, edited by adam saewitz</p>
 ]]></content>
   </entry>
   
