@@ -4,8 +4,9 @@ title: "xx"
 date: 2014-01-20 15:20:38 -0500
 comments: true
 categories: 
+category: photo
 ---
 ![geoffrey](/images/giraffe.jpg)
 ![personal](/images/rio5.jpg)
-![personal](/images/ireland.jpg)
+
 ![personal](/images/xx2.jpg)

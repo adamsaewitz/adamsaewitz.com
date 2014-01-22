@@ -4,6 +4,7 @@ title: "rio"
 date: 2014-01-20 00:49:08 -0500
 comments: true
 categories: 
+category: photo
 ---
 ![rio](/images/rio.jpg)
 ![rio](/images/rio3.jpg)

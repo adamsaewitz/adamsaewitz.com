@@ -4,6 +4,7 @@ title: "cutting ice to snow"
 date: 2014-01-17 16:21:30 -0500
 comments: true
 categories: 
+category: video
 ---
 {% vimeo 1914188 %}
 

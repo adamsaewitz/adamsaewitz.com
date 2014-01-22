@@ -4,5 +4,6 @@ title: "brother"
 date: 2014-01-20 01:44:05 -0500
 comments: true
 categories: 
+category: photo
 ---
 ![brother](/images/jon.png)

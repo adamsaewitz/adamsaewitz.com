@@ -4,6 +4,7 @@ title: "folk"
 date: 2014-01-21 17:36:15 -0500
 comments: true
 categories: 
+category: photo
 ---
 ![folk](/images/people_1.jpg)
 ![folk](/images/people_2.jpg)

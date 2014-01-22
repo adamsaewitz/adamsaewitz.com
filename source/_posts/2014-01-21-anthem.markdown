@@ -4,4 +4,6 @@ title: "anthem"
 date: 2014-01-21 17:36:27 -0500
 comments: true
 categories: 
+category: photo
+
 ---

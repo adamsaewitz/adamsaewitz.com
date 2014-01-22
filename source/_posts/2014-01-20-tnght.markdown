@@ -4,5 +4,6 @@ title: "tnght"
 date: 2014-01-20 00:48:27 -0500
 comments: true
 categories: 
+category: video
 ---
 {% youtube krLk1E1zsc8 %}

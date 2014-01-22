@@ -4,6 +4,7 @@ title: "addis"
 date: 2013-11-29 20:07:07 -0500
 comments: true
 categories: 
+category: photo
 ---
 {% vimeo 48030811 %}
 ![addis](/images/1_addis.jpg)

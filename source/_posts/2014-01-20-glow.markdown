@@ -4,5 +4,6 @@ title: "glow"
 date: 2014-01-20 18:29:57 -0500
 comments: true
 categories: 
+category: video
 ---
 {% youtube QXW69VAeCvI %}

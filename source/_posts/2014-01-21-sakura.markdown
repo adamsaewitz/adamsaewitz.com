@@ -4,6 +4,7 @@ title: "sakura"
 date: 2014-01-21 17:36:33 -0500
 comments: true
 categories: 
+category: photo
 ---
 ![sakura](/images/dream_7.jpg)
 ![sakura](/images/dream_1.jpg)
