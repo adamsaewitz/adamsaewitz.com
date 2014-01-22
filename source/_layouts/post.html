@@ -3,19 +3,38 @@ layout: default
 single: true
 ---
 <aside class="left-sidebar">
-  <section>
-    <ul id="recent_posts">
-      {% for post2 in site.posts %}
-        <li class="post">
-          {% if post2.id == page.id %}
-            <a class=italic href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a>
-          {% else %}
-              <a href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a>
-          {% endif %}
-        </li>
+  <div class="blog-index">
+    <div class=rolodex>
+      <div class="title-vid">Video</div>
+      {% for post2 in site.categories.video %}
+        <article>
+          <header>
+            {% if post2.id == page.id %}
+              <div class="entry-title italic"><a href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a></div>
+            {% else %}
+              <div class="entry-title"><a href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a></div>
+            {% endif %}
+          </header>
+        </article>
       {% endfor %}
-    </ul>
-  </section>
+      <div class="title-vid">Photo</div>
+      {% for post2 in site.categories.photo %}
+        <article>
+          <header>
+            {% if post2.id == page.id %}
+              <div class="entry-title italic"><a href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a></div>
+            {% else %}
+              <div class="entry-title"><a href="{{ root_url }}{{ post2.url }}">{% if site.titlecase %}{{ post2.title | titlecase }}{% else %}{{ post2.title }}{% endif %}</a></div>
+            {% endif %}
+          </header>
+        </article>
+      {% endfor %}
+      <article>&nbsp;</article>
+      <article>
+        <div class="entry-title"><a href="/bio">bio</a></div>
+      </article>
+    </div>
+  </div>
 </aside>
 
 <div class="post-content">
