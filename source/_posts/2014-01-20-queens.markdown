@@ -4,6 +4,7 @@ title: "queens"
 date: 2014-01-20 16:42:06 -0500
 comments: true
 categories: 
+category: video
 ---
 {% youtube qGWFBt_IPOg %} 
 directed by dream hampton, shot and edited by adam saewitz
