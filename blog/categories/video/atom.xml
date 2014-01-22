@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Video | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/video/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-22T14:11:16-05:00</updated>
+  <updated>2014-01-22T18:05:14-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -33,12 +33,11 @@ directed by dream hampton, shot and edited by adam saewitz</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Moo]]></title>
+    <title type="html"><![CDATA[Crooklyn]]></title>
     <link href="http://adamsaewitz.github.io/crooklyn/"/>
     <updated>2014-01-20T01:50:54-05:00</updated>
     <id>http://adamsaewitz.github.io/crooklyn</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/10196082 "></iframe></div>
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/15138569 "></iframe></div></p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/10196082 "></iframe></div></p>
 ]]></content>
   </entry>
   
