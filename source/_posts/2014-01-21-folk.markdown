@@ -1,0 +1,17 @@
+---
+layout: post
+title: "folk"
+date: 2014-01-21 17:36:15 -0500
+comments: true
+categories: 
+---
+![folk](/images/people_1.jpg)
+![folk](/images/people_2.jpg)
+![folk](/images/people_3.jpg)
+![folk](/images/people_4.jpg)
+![folk](/images/jayelect.jpg)
+![folk](/images/alex.jpg)
+![folk](/images/jarrett.jpg)
+![folk](/images/jarrett2.jpg)
+![folk](/images/free.jpg)
+![folk](/images/kendrick2.jpg)

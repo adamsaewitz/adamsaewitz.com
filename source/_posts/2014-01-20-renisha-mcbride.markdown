@@ -7,4 +7,4 @@ categories:
 ---
 {% youtube NJc1nvyPYqs %}
 
-this is a paragraph
+[Renisha McBride](http://www.mediamakechange.org/blog/2013/tracing-the-impact-of-online-activism-in-the-renisha-mcbride-case)

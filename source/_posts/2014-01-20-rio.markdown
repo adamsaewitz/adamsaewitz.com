@@ -6,7 +6,6 @@ comments: true
 categories: 
 ---
 ![rio](/images/rio.jpg)
-![rio](/images/rio2.jpg)
 ![rio](/images/rio3.jpg)
+![rio](/images/rio2.jpg)
 ![rio](/images/rio4.jpg)
-![rio](/images/rio5.jpg)
