@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photo | Adam Saewitz]]></title>
+  <link href="http://adamsaewitz.github.io/blog/categories/photo/atom.xml" rel="self"/>
+  <link href="http://adamsaewitz.github.io/"/>
+  <updated>2014-01-22T13:57:36-05:00</updated>
+  <id>http://adamsaewitz.github.io/</id>
+  <author>
+    <name><![CDATA[Adam Saewitz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Barcelona]]></title>
+    <link href="http://adamsaewitz.github.io/barcelona/"/>
+    <updated>2014-01-21T17:36:47-05:00</updated>
+    <id>http://adamsaewitz.github.io/barcelona</id>
+    <content type="html"><![CDATA[<p><img src="/images/1.jpg" alt="barcelona" />
+<img src="/images/2.jpg" alt="barcelona" />
+<img src="/images/4.jpg" alt="barcelona" />
+<img src="/images/9.jpg" alt="barcelona" />
+<img src="/images/10.jpg" alt="barcelona" />
+<img src="/images/11.jpg" alt="barcelona" />
+<img src="/images/12.jpg" alt="barcelona" />
+<img src="/images/13.jpg" alt="barcelona" />
+<img src="/images/14.jpg" alt="barcelona" />
+<img src="/images/15.jpg" alt="barcelona" />
+<img src="/images/16.jpg" alt="barcelona" />
+<img src="/images/17.jpg" alt="barcelona" />
+<img src="/images/18.jpg" alt="barcelona" />
+<img src="/images/19.jpg" alt="barcelona" />
+<img src="/images/21.jpg" alt="barcelona" />
+<img src="/images/23.jpg" alt="barcelona" />
+<img src="/images/24.jpg" alt="barcelona" />
+<img src="/images/25.jpg" alt="barcelona" />
+<img src="/images/26.jpg" alt="barcelona" />
+<img src="/images/27.jpg" alt="barcelona" />
+<img src="/images/28.jpg" alt="barcelona" />
+<img src="/images/29.jpg" alt="barcelona" />
+<img src="/images/30.jpg" alt="barcelona" />
+<img src="/images/31.jpg" alt="barcelona" />
+<img src="/images/32.jpg" alt="barcelona" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Landscapes]]></title>
+    <link href="http://adamsaewitz.github.io/landscapes/"/>
+    <updated>2014-01-21T17:36:41-05:00</updated>
+    <id>http://adamsaewitz.github.io/landscapes</id>
+    <content type="html"><![CDATA[<p><img src="/images/ireland.jpg" alt="landscapes" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sakura]]></title>
+    <link href="http://adamsaewitz.github.io/sakura/"/>
+    <updated>2014-01-21T17:36:33-05:00</updated>
+    <id>http://adamsaewitz.github.io/sakura</id>
+    <content type="html"><![CDATA[<p><img src="/images/dream_7.jpg" alt="sakura" />
+<img src="/images/dream_1.jpg" alt="sakura" />
+<img src="/images/dream_3.jpg" alt="sakura" />
+<img src="/images/dream_4.jpg" alt="sakura" />
+<img src="/images/dream_5.jpg" alt="sakura" />
+<img src="/images/dream_6.jpg" alt="sakura" />
+<img src="/images/dream_8.jpg" alt="sakura" />
+<img src="/images/dream_9.jpg" alt="sakura" />
+<img src="/images/dream_10.jpg" alt="sakura" />
+<img src="/images/dream_11.jpg" alt="sakura" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Anthem]]></title>
+    <link href="http://adamsaewitz.github.io/anthem/"/>
+    <updated>2014-01-21T17:36:27-05:00</updated>
+    <id>http://adamsaewitz.github.io/anthem</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Folk]]></title>
+    <link href="http://adamsaewitz.github.io/folk/"/>
+    <updated>2014-01-21T17:36:15-05:00</updated>
+    <id>http://adamsaewitz.github.io/folk</id>
+    <content type="html"><![CDATA[<p><img src="/images/people_1.jpg" alt="folk" />
+<img src="/images/people_2.jpg" alt="folk" />
+<img src="/images/people_3.jpg" alt="folk" />
+<img src="/images/people_4.jpg" alt="folk" />
+<img src="/images/jayelect.jpg" alt="folk" />
+<img src="/images/alex.jpg" alt="folk" />
+<img src="/images/jarrett.jpg" alt="folk" />
+<img src="/images/jarrett2.jpg" alt="folk" />
+<img src="/images/free.jpg" alt="folk" />
+<img src="/images/kendrick2.jpg" alt="folk" /></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Portfolio]]></title>
+  <title><![CDATA[Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-22T13:03:20-05:00</updated>
+  <updated>2014-01-22T13:57:36-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -18,7 +18,31 @@
     <link href="http://adamsaewitz.github.io/barcelona/"/>
     <updated>2014-01-21T17:36:47-05:00</updated>
     <id>http://adamsaewitz.github.io/barcelona</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/1.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/2.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/4.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/9.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/10.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/11.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/12.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/13.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/14.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/15.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/16.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/17.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/18.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/19.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/21.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/23.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/24.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/25.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/26.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/27.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/28.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/29.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/30.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/31.jpg" alt="barcelona" />
+<img src="http://adamsaewitz.github.io/images/32.jpg" alt="barcelona" /></p>
 ]]></content>
   </entry>
   
@@ -123,9 +147,9 @@ directed by dream hampton, shot and edited by adam saewitz</p>
     <updated>2014-01-20T15:20:38-05:00</updated>
     <id>http://adamsaewitz.github.io/personal</id>
     <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/giraffe.jpg" alt="geoffrey" />
-<img src="http://adamsaewitz.github.io/images/rio5.jpg" alt="personal" />
-<img src="http://adamsaewitz.github.io/images/ireland.jpg" alt="personal" />
-<img src="http://adamsaewitz.github.io/images/xx2.jpg" alt="personal" /></p>
+<img src="http://adamsaewitz.github.io/images/rio5.jpg" alt="personal" /></p>
+
+<p><img src="http://adamsaewitz.github.io/images/xx2.jpg" alt="personal" /></p>
 ]]></content>
   </entry>
   
@@ -220,39 +244,6 @@ directed by dream hampton, shot and edited by adam saewitz</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Barcelona]]></title>
-    <link href="http://adamsaewitz.github.io/macba/"/>
-    <updated>2013-11-29T21:04:54-05:00</updated>
-    <id>http://adamsaewitz.github.io/macba</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/1.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/2.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/4.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/9.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/10.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/11.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/12.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/13.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/14.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/15.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/16.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/17.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/18.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/19.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/21.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/23.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/24.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/25.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/26.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/27.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/28.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/29.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/30.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/31.jpg" alt="dgk" />
-<img src="http://adamsaewitz.github.io/images/32.jpg" alt="dgk" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Addis]]></title>
     <link href="http://adamsaewitz.github.io/addis/"/>
     <updated>2013-11-29T20:07:07-05:00</updated>
@@ -264,6 +255,22 @@ directed by dream hampton, shot and edited by adam saewitz</p>
 <img src="http://adamsaewitz.github.io/images/2_addis.jpg" alt="addis" />
 <img src="http://adamsaewitz.github.io/images/4_addis.jpg" alt="addis" />
 <img src="http://adamsaewitz.github.io/images/6_addis.jpg" alt="addis" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Erykah]]></title>
+    <link href="http://adamsaewitz.github.io/erykah/"/>
+    <updated>2013-11-29T19:32:58-05:00</updated>
+    <id>http://adamsaewitz.github.io/erykah</id>
+    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/erykah5.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah2.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah3.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah4.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah6.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah8.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah9.jpg" alt="erykah" />
+<img src="http://adamsaewitz.github.io/images/erykah10.jpg" alt="erykah" /></p>
 ]]></content>
   </entry>
   
