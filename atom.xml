@@ -4,7 +4,7 @@
   <title><![CDATA[Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-22T14:07:33-05:00</updated>
+  <updated>2014-01-22T14:11:16-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -124,24 +124,6 @@ directed by dream hampton, shot and edited by adam saewitz</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Kelev]]></title>
-    <link href="http://adamsaewitz.github.io/kelev/"/>
-    <updated>2014-01-20T16:10:31-05:00</updated>
-    <id>http://adamsaewitz.github.io/kelev</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/pharoah2.jpg" alt="kelev" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Luna]]></title>
-    <link href="http://adamsaewitz.github.io/la-lun/"/>
-    <updated>2014-01-20T16:02:52-05:00</updated>
-    <id>http://adamsaewitz.github.io/la-lun</id>
-    <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/redbull.jpg" alt="la lun" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Xx]]></title>
     <link href="http://adamsaewitz.github.io/personal/"/>
     <updated>2014-01-20T15:20:38-05:00</updated>
@@ -149,7 +131,8 @@ directed by dream hampton, shot and edited by adam saewitz</p>
     <content type="html"><![CDATA[<p><img src="http://adamsaewitz.github.io/images/giraffe.jpg" alt="geoffrey" />
 <img src="http://adamsaewitz.github.io/images/rio5.jpg" alt="personal" /></p>
 
-<p><img src="http://adamsaewitz.github.io/images/xx2.jpg" alt="personal" /></p>
+<p><img src="http://adamsaewitz.github.io/images/xx2.jpg" alt="personal" />
+<img src="http://adamsaewitz.github.io/images/redbull.jpg" alt="personal" /></p>
 ]]></content>
   </entry>
   
@@ -271,6 +254,15 @@ directed by dream hampton, shot and edited by adam saewitz</p>
 <img src="http://adamsaewitz.github.io/images/erykah8.jpg" alt="erykah" />
 <img src="http://adamsaewitz.github.io/images/erykah9.jpg" alt="erykah" />
 <img src="http://adamsaewitz.github.io/images/erykah10.jpg" alt="erykah" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bio]]></title>
+    <link href="http://adamsaewitz.github.io/bio/"/>
+    <updated>2013-01-01T00:49:39-05:00</updated>
+    <id>http://adamsaewitz.github.io/bio</id>
+    <content type="html"><![CDATA[<p>Adam is a director, cinematographer, and editor based in Brooklyn. He received his degree from the NYU film program in 2010 focusing on documentary production. He was director and co-creator of the online cooking series, <a href="http://www.brothersgreen.com">Midnight Munchies</a>. He has also shot several music videos and travel pieces. He was a director of photography for the forthcoming feature length documentary about the Derg’s military coup and Haile Selassie’s legacy directed by Yemane Demissie. He is currently working on a feature length documentary about transgender teengagers in Detroit. He is available for contract work and can be reached at <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x61;&#100;&#x61;&#x6d;&#64;&#x61;&#100;&#97;&#x6d;&#115;&#97;&#x65;&#119;&#105;&#116;&#x7a;&#x2e;&#99;&#x6f;&#x6d;">&#97;&#x64;&#97;&#x6d;&#64;&#x61;&#x64;&#x61;&#x6d;&#x73;&#97;&#101;&#x77;&#105;&#116;&#122;&#x2e;&#99;&#111;&#109;</a></p>
 ]]></content>
   </entry>
   
