@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photo | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-23T10:30:33-05:00</updated>
+  <updated>2014-01-23T10:35:22-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -93,14 +93,14 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Xx]]></title>
+    <title type="html"><![CDATA[Noise]]></title>
     <link href="http://adamsaewitz.github.io/personal/"/>
     <updated>2014-01-20T15:20:38-05:00</updated>
     <id>http://adamsaewitz.github.io/personal</id>
     <content type="html"><![CDATA[<p><img src="/images/giraffe.jpg" alt="geoffrey" />
-<img src="/images/rio5.jpg" alt="personal" /></p>
-
-<p><img src="/images/xx2.jpg" alt="personal" />
+<img src="/images/rio5.jpg" alt="personal" />
+<img src="/images/ireland.jpg" alt="landscapes" />
+<img src="/images/xx2.jpg" alt="personal" />
 <img src="/images/redbull.jpg" alt="personal" /></p>
 ]]></content>
   </entry>
