@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photo | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-23T10:36:08-05:00</updated>
+  <updated>2014-01-23T10:36:48-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -43,15 +43,6 @@
 <img src="/images/30.jpg" alt="barcelona" />
 <img src="/images/31.jpg" alt="barcelona" />
 <img src="/images/32.jpg" alt="barcelona" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Landscapes]]></title>
-    <link href="http://adamsaewitz.github.io/landscapes/"/>
-    <updated>2014-01-21T17:36:41-05:00</updated>
-    <id>http://adamsaewitz.github.io/landscapes</id>
-    <content type="html"><![CDATA[<p><img src="/images/ireland.jpg" alt="landscapes" /></p>
 ]]></content>
   </entry>
   
@@ -102,6 +93,18 @@
 <img src="/images/ireland.jpg" alt="landscapes" />
 <img src="/images/xx2.jpg" alt="personal" />
 <img src="/images/redbull.jpg" alt="personal" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rio]]></title>
+    <link href="http://adamsaewitz.github.io/rio/"/>
+    <updated>2014-01-20T00:49:08-05:00</updated>
+    <id>http://adamsaewitz.github.io/rio</id>
+    <content type="html"><![CDATA[<p><img src="/images/rio.jpg" alt="rio" />
+<img src="/images/rio3.jpg" alt="rio" />
+<img src="/images/rio2.jpg" alt="rio" />
+<img src="/images/rio4.jpg" alt="rio" /></p>
 ]]></content>
   </entry>
   
