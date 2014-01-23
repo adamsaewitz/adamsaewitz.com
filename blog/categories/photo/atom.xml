@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photo | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-01-22T20:12:04-05:00</updated>
+  <updated>2014-01-23T10:30:33-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -74,15 +74,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Anthem]]></title>
-    <link href="http://adamsaewitz.github.io/anthem/"/>
-    <updated>2014-01-21T17:36:27-05:00</updated>
-    <id>http://adamsaewitz.github.io/anthem</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Folk]]></title>
     <link href="http://adamsaewitz.github.io/folk/"/>
     <updated>2014-01-21T17:36:15-05:00</updated>
@@ -95,8 +86,22 @@
 <img src="/images/alex.jpg" alt="folk" />
 <img src="/images/jarrett.jpg" alt="folk" />
 <img src="/images/jarrett2.jpg" alt="folk" />
+<img src="/images/jon.png.jpg" alt="folk" />
 <img src="/images/free.jpg" alt="folk" />
 <img src="/images/kendrick2.jpg" alt="folk" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Xx]]></title>
+    <link href="http://adamsaewitz.github.io/personal/"/>
+    <updated>2014-01-20T15:20:38-05:00</updated>
+    <id>http://adamsaewitz.github.io/personal</id>
+    <content type="html"><![CDATA[<p><img src="/images/giraffe.jpg" alt="geoffrey" />
+<img src="/images/rio5.jpg" alt="personal" /></p>
+
+<p><img src="/images/xx2.jpg" alt="personal" />
+<img src="/images/redbull.jpg" alt="personal" /></p>
 ]]></content>
   </entry>
   
