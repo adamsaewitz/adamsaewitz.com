@@ -14,5 +14,7 @@ category: photo
 ![folk](/images/alex.jpg)
 ![folk](/images/jarrett.jpg)
 ![folk](/images/jarrett2.jpg)
+![folk](/images/jon.png)
 ![folk](/images/free.jpg)
 ![folk](/images/kendrick2.jpg)
+
