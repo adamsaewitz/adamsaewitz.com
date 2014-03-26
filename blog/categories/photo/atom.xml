@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photo | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-03-26T16:35:57-04:00</updated>
+  <updated>2014-03-26T16:39:37-04:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -41,14 +41,15 @@
     <id>http://adamsaewitz.github.io/sakura</id>
     <content type="html"><![CDATA[<p><img src="/images/dream_7.jpg" alt="sakura" />
 <img src="/images/dream_1.jpg" alt="sakura" />
-<img src="/images/dream_3.jpg" alt="sakura" />
-<img src="/images/dream_4.jpg" alt="sakura" />
-<img src="/images/dream_5.jpg" alt="sakura" />
+<img src="/images/dream_3.jpg" alt="sakura" /></p>
+
+<p><img src="/images/dream_5.jpg" alt="sakura" />
 <img src="/images/dream_6.jpg" alt="sakura" />
 <img src="/images/dream_8.jpg" alt="sakura" />
 <img src="/images/dream_9.jpg" alt="sakura" />
 <img src="/images/dream_10.jpg" alt="sakura" />
-<img src="/images/dream_11.jpg" alt="sakura" /></p>
+<img src="/images/dream_11.jpg" alt="sakura" />
+<img src="/images/dream_4.jpg" alt="sakura" /></p>
 ]]></content>
   </entry>
   
