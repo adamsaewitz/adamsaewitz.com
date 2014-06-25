@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Video | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/video/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-06-25T14:19:18-04:00</updated>
+  <updated>2014-06-25T14:20:30-04:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[No Domino]]></title>
+    <link href="http://adamsaewitz.github.io/no-domino/"/>
+    <updated>2014-06-25T14:18:01-04:00</updated>
+    <id>http://adamsaewitz.github.io/no-domino</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/4_5MzCeoMqk&amp;feature=kp "></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Glow]]></title>
@@ -47,15 +56,6 @@ directed by dream hampton, shot and edited by adam saewitz</p>
     <updated>2014-01-20T01:32:08-05:00</updated>
     <id>http://adamsaewitz.github.io/mike-slott</id>
     <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/20737056 "></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tnght]]></title>
-    <link href="http://adamsaewitz.github.io/tnght/"/>
-    <updated>2014-01-20T00:48:27-05:00</updated>
-    <id>http://adamsaewitz.github.io/tnght</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/krLk1E1zsc8 "></iframe></div></p>
 ]]></content>
   </entry>
   
