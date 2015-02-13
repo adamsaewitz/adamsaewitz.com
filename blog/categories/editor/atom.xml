@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Editor | Adam Saewitz]]></title>
+  <link href="http://adamsaewitz.github.io/blog/categories/editor/atom.xml" rel="self"/>
+  <link href="http://adamsaewitz.github.io/"/>
+  <updated>2015-02-13T13:04:35-05:00</updated>
+  <id>http://adamsaewitz.github.io/</id>
+  <author>
+    <name><![CDATA[Adam Saewitz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Queens]]></title>
+    <link href="http://adamsaewitz.github.io/queens/"/>
+    <updated>2014-01-20T16:42:06-05:00</updated>
+    <id>http://adamsaewitz.github.io/queens</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qGWFBt_IPOg "></iframe></div>
+directed by dream hampton, shot and edited by adam saewitz
+<a href="http://www.npr.org/blogs/bestmusic2012/2012/12/28/168159620/the-most-stylish-music-videos-of-2012">NPR</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cutting Ice to Snow]]></title>
+    <link href="http://adamsaewitz.github.io/cutting-ice-to-snow/"/>
+    <updated>2014-01-17T16:21:30-05:00</updated>
+    <id>http://adamsaewitz.github.io/cutting-ice-to-snow</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/1914188 "></iframe></div></p>
+
+<p>directed by jeremiah zagar, edited by adam saewitz</p>
+]]></content>
+  </entry>
+  
+</feed>
