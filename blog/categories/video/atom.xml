@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Video | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/video/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2014-10-06T12:46:55-04:00</updated>
+  <updated>2015-02-13T12:49:32-05:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[No Domino]]></title>
-    <link href="http://adamsaewitz.github.io/no-domino/"/>
-    <updated>2014-06-25T14:18:01-04:00</updated>
-    <id>http://adamsaewitz.github.io/no-domino</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/4_5MzCeoMqk "></iframe></div></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Glow]]></title>
@@ -57,6 +48,15 @@ directed by dream hampton, shot and edited by adam saewitz
     <updated>2014-01-20T01:32:08-05:00</updated>
     <id>http://adamsaewitz.github.io/mike-slott</id>
     <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/20737056 "></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meet Us in Chinatown]]></title>
+    <link href="http://adamsaewitz.github.io/meet-us-in-chinatown/"/>
+    <updated>2014-01-20T01:31:08-05:00</updated>
+    <id>http://adamsaewitz.github.io/meet-us-in-chinatown</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/7148299 "></iframe></div></p>
 ]]></content>
   </entry>
   
