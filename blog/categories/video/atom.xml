@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Video | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/video/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2015-06-13T11:42:11-04:00</updated>
+  <updated>2015-08-18T22:27:27-04:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -42,7 +42,7 @@
     <link href="http://adamsaewitz.github.io/glow/"/>
     <updated>2014-01-20T18:29:57-05:00</updated>
     <id>http://adamsaewitz.github.io/glow</id>
-    <content type="html"><![CDATA[<p>{% youtube QXW69VAeCvI %}
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/QXW69VAeCvI "></iframe></div>
 I met Dominic at <a href="http://thisisluckyme.com/">LuckyMe</a> sometime around 2010. We both connected over our mutual admiration for <a href="https://www.youtube.com/watch?v=xAHphpMC9zg">The Clipse</a> and when he approached me to direct Lunice’s first music video I knew I wanted to incorporate <a href="https://www.youtube.com/watch?v=JX_sx9Rr710">his energy into the piece</a> I took incense and a video-projector into my closet. I projected my iTunes visualizer against the incense smoke to create a glowing palette. With my DSLR I photographed the projector light striking the incense. In post, I composited Lunice dancing directly on top of my glowing images. I believe I used a hard-light filter in Final Cut so the smoke seamlessly blended into Lunice’s body.</p>
 ]]></content>
   </entry>
@@ -52,7 +52,7 @@ I met Dominic at <a href="http://thisisluckyme.com/">LuckyMe</a> sometime around
     <link href="http://adamsaewitz.github.io/crooklyn/"/>
     <updated>2014-01-20T01:50:54-05:00</updated>
     <id>http://adamsaewitz.github.io/crooklyn</id>
-    <content type="html"><![CDATA[<p>{% vimeo 10196082 %}
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/10196082 "></iframe></div>
 No budget, no frills but Moruf is a good friend and whenever I play this video back it feels classic.</p>
 ]]></content>
   </entry>
@@ -62,7 +62,7 @@ No budget, no frills but Moruf is a good friend and whenever I play this video b
     <link href="http://adamsaewitz.github.io/mike-slott/"/>
     <updated>2014-01-20T01:32:08-05:00</updated>
     <id>http://adamsaewitz.github.io/mike-slott</id>
-    <content type="html"><![CDATA[<p>{% vimeo 20737056 %}
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/20737056 "></iframe></div>
 Dom at <a href="http://thisisluckyme.com/">LuckyMe</a> introduced me to Mike and it felt like old souls reuniting.
 I was so grateful he opened his door to his home studio to me to share his insights on his recording process.</p>
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Editor | Adam Saewitz]]></title>
   <link href="http://adamsaewitz.github.io/blog/categories/editor/atom.xml" rel="self"/>
   <link href="http://adamsaewitz.github.io/"/>
-  <updated>2015-06-13T11:42:11-04:00</updated>
+  <updated>2015-08-18T22:27:27-04:00</updated>
   <id>http://adamsaewitz.github.io/</id>
   <author>
     <name><![CDATA[Adam Saewitz]]></name>
@@ -18,7 +18,7 @@
     <link href="http://adamsaewitz.github.io/cutting-ice-to-snow/"/>
     <updated>2014-01-17T16:21:30-05:00</updated>
     <id>http://adamsaewitz.github.io/cutting-ice-to-snow</id>
-    <content type="html"><![CDATA[<p>{% vimeo 1914188 %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/1914188 "></iframe></div></p>
 
 <p>directed by jeremiah zagar, edited by adam saewitz
 <a href="http://pitchfork.com/features/staff-lists/7565-top-40-music-videos-of-2008/">Pitchfork Award, one of Top 40 videos of 2008</a></p>
